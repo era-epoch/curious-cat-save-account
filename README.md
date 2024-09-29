@@ -4,7 +4,7 @@ Quick program for saving the posts on your CuriousCat account now that the site 
 
 # Prerequisites
 
-Node and NPM installed.
+A recent version of Node installed.
 
 # How to run
 
